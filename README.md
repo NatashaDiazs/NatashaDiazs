@@ -7,9 +7,19 @@
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
-
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"> |<img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/>|<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>  | <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> |  |   | |  |   | | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=blender" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=unreal" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=notion&theme=light" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> |  <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40"/>
 
+
+### <div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
+
+<div align="center">
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
+</a>
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1l1na&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
+</div>
  
