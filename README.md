@@ -34,10 +34,10 @@
 <h2 align="center" style="margin: 2px 5px;">:bar_chart:Github Stat.</h2>
 
 <div align="center">
-<a href="https://github.com/bindian0509/bindian0509">
+<a href="https://github.com/NatashaDiazs">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=github_dark&hide_border=true)](https://github.com/natashadiazs" alt=""/>
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=compact&theme=github_dark&show_icons=true" alt=""/>
+
 </div>
 
 
