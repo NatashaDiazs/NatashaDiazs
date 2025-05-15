@@ -13,8 +13,11 @@
 | <img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=blender" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=unreal" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=notion&theme=light" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40"/>
 
 
-### :calling: Check out my Social Media 
-<a href="https://www.linkedin.com/in/natasha-diaz/" target="_blank"> 
+
+### 
+<h2 align=center>:calling: Check out my Social Media </h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/natasha-diaz/" target="_blank"> 
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -28,6 +31,7 @@
 <a href="https://www.instagram.com/natashadiazs/"> 
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+</div>
 <br>
 
 ### <div align="center">
