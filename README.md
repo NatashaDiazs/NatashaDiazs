@@ -35,8 +35,13 @@
 
 <div align="center">
 <a href="https://github.com/NatashaDiazs">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=github_dark&hide_border=true)](https://github.com/natashadiazs" alt=""/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=github_dark&hide_border=false&title_color=5ae8e6&text_color=fafff)](https://github.com/natashadiazs" alt=""/>
 </a>
+   <hr> 
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=pie&hide_border=true&bg_color=0d1117&text_color=faffff&title_color=5ae8e6)](https://github.com/natashadiazs/github-readme-stats)
+
+
 
 </div>
 
