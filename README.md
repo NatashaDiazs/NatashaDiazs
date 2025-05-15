@@ -14,8 +14,19 @@
 
 
 ### :calling: Check out my Social Media 
+<a href="https://www.linkedin.com/in/natasha-diaz/"> 
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href=""> 
-   <img>
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href=""> 
+   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/natashadiazs/"> 
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 
