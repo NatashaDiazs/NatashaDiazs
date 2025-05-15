@@ -28,19 +28,16 @@
 <a href="https://www.instagram.com/natashadiazs/"> 
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-
-
-
+<br>
 
 ### <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
+<h2 align="center" style="margin: 2px 5px;">:bar_chart:Github Stat.</h2>
 
 <div align="center">
 <a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=github_dark&hide_border=true)](https://github.com/natashadiazs" alt=""/>
 </a>
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1l1na&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=compact&theme=github_dark&show_icons=true" alt=""/>
 </div>
 
 
