@@ -39,12 +39,19 @@
 
 <div align="center">
 <a href="https://github.com/Natashadiazs">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=calm&hide_border=false&title_color=FFFFFF&text_color=fafff)](https://github.com/natashadiazs)"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=react&hide_border=false&title_color=FFFFFF&text_color=fafff)](https://github.com/natashadiazs)"/>
 </a>
    <hr> 
+<a href="https://github.com/Natashadiazs">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=calm&hide_border=false&title_color=FFFFFF&text_color=fafff)](https://github.com/natashadiazs)"/>
+</a>
 
 <a href="https://github.com/Natashadiazs">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=donut&hide_border=true&theme=calm&title_color=2aa889&text_color=000000)](https://github.com/natashadiazs)"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=jolly&hide_border=false&title_color=FFFFFF&text_color=fafff)](https://github.com/natashadiazs)"/>
+</a>
+
+<a href="https://github.com/Natashadiazs">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=donut&hide_border=true&title_color=2aa889&text_color=faffff)](https://github.com/natashadiazs)"/>
 </a>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&layout=pie&hide_border=true&theme=dark&text_color=faffff&title_color=055acf)](https://github.com/natashadiazs/github-readme-stats)
