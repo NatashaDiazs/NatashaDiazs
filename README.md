@@ -1,24 +1,23 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Natasha Diaz</h1>
-<img align=right width= "350" height="230" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9ybzd0cnA2dXBvcm40bnNmdHVxNnFkd2RwcjUwNnd3cjc0NnZjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg41uZ1C4lh4I/giphy.gif"/>
-<p align=left padding-right="210">
-Hi, my name is Natasha. 
-I'm an electronics engineer and 3D designer, passionate about learning new skills, which has made me very interested in software development.
+<img align=right width= "350" height="230" border="210px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9ybzd0cnA2dXBvcm40bnNmdHVxNnFkd2RwcjUwNnd3cjc0NnZjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg41uZ1C4lh4I/giphy.gif"/>
 
-   
-Currently, I'm training as a Full-Stack developer, exploring the world of web development on both the frontend and backend sides. I'm also working on my own game development projects with Unity and C#, which has allowed me to have a broader vision about interactive programming and how to complement what I've learned so far :bulb:.
+Hi, my name is Natasha. 
+I'm an electronics engineer and 3D designer, passionate about learning new skills, which naturally led me to fall in love with software development
+
+Currently, I'm training as a Full-Stack developer. I'm also working on personal game development projects using Unity and C#, which has given me a broader view of interactive programming and how to tie together everything I’ve learned so far 💡.
 
 :hammer: Things I'm doing now:
-- Studying Full Stack development (frontend and backend) and UX/UI principles to apply to my websites
-- Working on small personal projects to practice
-- Improving my Python and C# skills
+- Studying Full Stack development and UX/UI principles to apply them to my websites :maple_leaf:
+- Building small personal projects to practice :file_folder:
+- Improving my Python and C# skills :pencil2:
 
-:video_game: Cosas que disfruto hacer: 
+:video_game: Things I enjoy doing:
+- Loving CSS like it's magic :milky_way: (until something breaks).
+- Using Unity and Unreal as an excuse to make the game I want to play :space_invader: 
+- Starting new projects with epic music in the background :headphones: (and finishing some 😅) 
+- Being a total pixel perfectionist... and happily suffering for it :mag_right: :triangular_ruler:
+- Modeling in 3D for fun (and sometimes obsession :dart:).
 
--
--
-
-
-</p>
 
 <h2 align=left>:computer: Tech Stack</h2>
 
