@@ -1,10 +1,18 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Natasha Diaz</h1>
-   <p align="left">
-    Hello, my name is Natasha. I'm an electronic engineer and 3D designer, but also a fan of learning new skills, which made me to be very interested in software development.
-      
-   </p>   
-   <img align= "right" width= "360" height="240" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9ybzd0cnA2dXBvcm40bnNmdHVxNnFkd2RwcjUwNnd3cjc0NnZjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg41uZ1C4lh4I/giphy.gif"/>
-   <hr>
+<div>
+<p align="left">
+   Hola, me llamo Natasha. 
+Soy ingeniera electrónica y diseñadora 3D, pero también me gusta aprender nuevas habilidades, por lo que empecé a interesarme mucho por el desarrollo de software.
+
+Soy una persona creativa, curiosa y siempre con ganas de aprender. Actualmente me estoy formando como desarrolladora Full Stack, explorando el mundo del desarrollo web tanto del lado del frontend como del backend. Lo que me mueve es la posibilidad de crear cosas útiles, funcionales y visualmente atractivas, combinando lógica y diseño en cada proyecto.
+
+   :video_game:
+
+</p>   
+<img align= "right" width= "360" height="240" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9ybzd0cnA2dXBvcm40bnNmdHVxNnFkd2RwcjUwNnd3cjc0NnZjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yg41uZ1C4lh4I/giphy.gif"/>
+</div>
+
+
    
 
 ### :computer: Tech Stack
