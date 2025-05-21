@@ -52,9 +52,17 @@ Currently, I'm training as a Full-Stack developer. I'm also working on personal 
 <a href="https://github.com/Natashadiazs">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natashadiazs&theme=react&hide_border=false&title_color=FFFFFF&text_color=fafff)](https://github.com/natashadiazs)"/>
 </a>
-
+<br> 
+   
 <a href="https://github.com/Natashadiazs">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashadiazs&bg_color=20232a&layout=donut&hide_border=true&title_color=61dafb&text_color=faffff&theme=react)](https://github.com/natashadiazs)"/>
+</a>
+</div>
+<br> 
+
+<div align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31w6yrjwvgb37fjaspjxxp5tvoo4">
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31w6yrjwvgb37fjaspjxxp5tvoo4&title_color=61dafb&text_color=faffff&theme=react&bg_color=20232a" alt="Data Card for Spotify">
 </a>
 </div>
 
